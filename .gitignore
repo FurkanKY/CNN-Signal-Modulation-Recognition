@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data and model files
+*.pkl
+*.npz
+*.h5
