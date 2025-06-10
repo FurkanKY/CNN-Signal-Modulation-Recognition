@@ -28,3 +28,9 @@ The project goal was to build an end-to-end deep learning pipeline that:
 4.  Run the data preparation script: `python prepare_data.py`
 5.  Run the training script: `python train_model.py`
 6.  Run the evaluation script: `python evaluate_model.py`
+
+### What I Learned
+- Preprocessing complex signal data for a neural network.
+- Implementing a CNN architecture for a task other than traditional image recognition.
+- Understanding and interpreting key performance metrics like the classification report and confusion matrix.
+- Managing a complete machine learning project workflow from data to evaluation.
