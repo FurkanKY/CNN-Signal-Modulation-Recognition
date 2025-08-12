@@ -22,7 +22,7 @@ The project goal was to build an end-to-end deep learning pipeline that:
 * Matplotlib & Seaborn
 
 ### How To Run
-1.  Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+1.  Clone the repository: `git clone https://github.com/FurkanKY/CNN-Signal-Modulation-Recognition`
 2.  Set up a Python virtual environment and install dependencies. The main libraries are listed in the Tech Stack section.
 3.  Download the dataset from [Kaggle](https://www.kaggle.com/datasets/nolasthitnotomorrow/radioml2016-deepsigcom) and place the `RML2016.10a_dict.pkl` file in the root directory.
 4.  Run the data preparation script: `python prepare_data.py`
